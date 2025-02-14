@@ -1,6 +1,5 @@
-*.* linguist-language=Python
-*.* linguist-language=Flask
 *.py linguist-detectable=true
 *.css linguist-detectable=true
 *.js linguist-detectable=true
 *.html linguist-detectable=true
+
