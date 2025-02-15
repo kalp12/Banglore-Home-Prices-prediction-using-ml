@@ -1,4 +1,4 @@
-# Bangalore Home Price Prediction 🏠📈
+# HomeTrends AI: Property Price Forecast 🏠📈
 
 A machine learning project to predict residential property prices in Bangalore using regression techniques.  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kalp12/Banglore-Home-Prices-prediction-using-ml)  
